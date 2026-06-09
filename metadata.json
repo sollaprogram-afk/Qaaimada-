@@ -1,0 +1,6 @@
+{
+  "name": "Qaaimada Calculator",
+  "description": "Somali business calculator for product sales, commissions, payments, and balances with 3-window auto-calculation, history, and search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
